@@ -30,7 +30,7 @@
 
 ## Day05
 
-1. float * float = ok\n
+1. float * float = ok 
    int * float = x
  
 
