@@ -27,4 +27,10 @@
 2. for in
 3. try except
 4. isdigit, isalpha
-5. 근성
+
+## Day05
+
+1. float * float = ok
+   int * float = x
+ 
+
