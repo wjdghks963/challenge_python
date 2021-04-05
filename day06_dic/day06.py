@@ -23,7 +23,6 @@ def extract_jobs():
         table = soup.find("table")
         tbody = table.find("tbody")
         trs = tbody.find_all('tr', {"class": ["", "divide "]})
-        print(trs)
         diction = {'location': [],
                    'title': [],
                    'time': [],
